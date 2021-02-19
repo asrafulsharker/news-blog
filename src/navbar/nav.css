@@ -1,0 +1,8 @@
+.nav-hov:hover{
+    color: red !important;
+    border-bottom: 3.5px solid black;
+}
+.nav-hov:focus{
+    color: red !important;
+    border-bottom: 3.5px solid black;
+}
